@@ -1,2 +1,2 @@
-# -arduino
- arduino
+# arduino
+ Motion Sensor Alarm project
